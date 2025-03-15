@@ -1,4 +1,4 @@
-# Hi there, I'm [fName] 👋
+# Hi there, I'm Ahmed Ragab 👋
 
 ## 🚀 Data Engineer | Big Data Enthusiast
 
@@ -46,9 +46,11 @@ I am a passionate Data Engineer with experience in building scalable data pipeli
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn](#)
-- GitHub: [Your GitHub](#)
-- Blog (if any): [Your Blog](#)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://www.linkedin.com/in/ahmedragab-aq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/AhmedRagab01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  </div>
 
 Feel free to check out my repositories and projects! 🚀
 
