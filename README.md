@@ -1,48 +1,54 @@
-## Hi there 👋
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm [fName] 👋
 
-###
+## 🚀 Data Engineer | Big Data Enthusiast
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+I am a passionate Data Engineer with experience in building scalable data pipelines, optimizing ETL workflows, and working with big data technologies. I love solving complex data problems and working with modern data engineering tools.
 
-###
+### 🛠 Tech Stack & Tools
 
-<h2 align="left">About me</h2>
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-###
+- **Programming:** <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white">
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- **Big Data:** <br>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black">
 
-###
+- **Data Warehousing:** <br>
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazonaws&logoColor=white">
 
-<h2 align="left">I code with</h2>
+- **ETL & Workflow Orchestration:** <br>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apache%20Oozie-FF6F00?style=flat"> 
+  <img src="https://img.shields.io/badge/Apache%20NiFi-0078D4?style=flat">
 
-###
+- **Cloud Platforms:** <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Glue-5A29E4?style=flat&logo=apachehive&logoColor=white"> 
+  <img src="https://img.shields.io/badge/EMR-232F3E?style=flat&logo=amazonaws&logoColor=white">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
+- **Databases:** <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white">
 
-###
-<!--
-**AhmedRagab01/AhmedRagab01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Featured Projects
 
-Here are some ideas to get you started:
+- **[Apache Airflow ETL Pipeline for Sparkify](#)** - Built a scalable ETL pipeline using Airflow to process JSON logs from S3 into Amazon Redshift.
+- **[Real-time Data Streaming with Kafka & Spark](#)** - Developed a real-time data processing pipeline using Kafka and Spark Structured Streaming.
+- **[Data Warehouse Optimization](#)** - Designed and optimized data models for analytical workloads in Redshift and Snowflake.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn](#)
+- GitHub: [Your GitHub](#)
+- Blog (if any): [Your Blog](#)
+
+Feel free to check out my repositories and projects! 🚀
+
