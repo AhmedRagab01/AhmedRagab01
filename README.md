@@ -1,6 +1,4 @@
-# Hi there, I'm Ahmed Ragab 👋
-
-## 🚀 Data Engineer | Big Data Enthusiast
+## Hi There , I'm Ahmed Ragab 👋 | Data Engineer - Big Data Enthusiast 🚀 
 
 I am a passionate Data Engineer with experience in building scalable data pipelines, optimizing ETL workflows, and working with big data technologies. I love solving complex data problems and working with modern data engineering tools.
 
