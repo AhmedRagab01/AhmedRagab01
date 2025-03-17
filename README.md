@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm <span style="color: #007BFF;">Ahmed Ragab 👋</span></h1>
-  <h3>🚀 Data Engineer | Big Data Enthusiast | ETL Developer</h3>
+  <h3>🚀 Data Engineer | Big Data Engineer | ETL Developer</h3>
 </div>
 
 ---
