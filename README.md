@@ -41,6 +41,7 @@
 ### 📌 Featured Projects
 
 🚀 **[ETL Pipeline for Sparkify](#)** - Built a scalable ETL pipeline using Airflow & Redshift.
+
 🚀 **[Cloued Lakehouse Architecture ](#)** - Built a Modern Lakehouse Architecture.
 
 ---
