@@ -40,9 +40,8 @@
 
 ### 📌 Featured Projects
 
-🚀 **[ETL Pipeline for Sparkify](#)** - Built a scalable ETL pipeline using Airflow & Redshift  
-🚀 **[Kafka & Spark Streaming](#)** - Real-time data processing pipeline  
-🚀 **[Data Warehouse Optimization](#)** - Designed optimized Redshift & Snowflake models  
+🚀 **[ETL Pipeline for Sparkify](#)** - Built a scalable ETL pipeline using Airflow & Redshift.
+🚀 **[Cloued Lakehouse Architecture ](#)** - Built a Modern Lakehouse Architecture.
 
 ---
 
